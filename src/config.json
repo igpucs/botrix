@@ -2,7 +2,7 @@
   "id": "",
   "clientSecret": "",
   "domain": "https://botrix.cc",
-  "MongoDbServer": "mongodb://user:pass@hostname:port/db",
+  "MongoDbServer": "mongodb+srv://snok:Q7bRSmeDYn1jC1Gh@cluster0.zfgpo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "Token": "",
   "ServerToken": "",
   "port": "80",
